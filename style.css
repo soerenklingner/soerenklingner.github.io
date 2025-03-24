@@ -105,6 +105,10 @@ a{
 
 /* form */
 
+form {
+    margin-top: 2rem;
+}
+
 input[type=text],
 input[type=email],
 textarea[type=text] {
