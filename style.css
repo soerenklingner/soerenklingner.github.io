@@ -123,8 +123,9 @@ textarea[type=text] {
 }
 
 p[type=form-status] {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
     color: #fff;
+    margin-top: 1rem;
 }
 
 textarea[type=text] {
