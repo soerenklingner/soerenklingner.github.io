@@ -126,6 +126,7 @@ p[type=form-status] {
     font-size: 0.8rem;
     color: #fff;
     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 textarea[type=text] {
