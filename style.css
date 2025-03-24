@@ -124,7 +124,7 @@ textarea[type=text] {
 
 p[type=form-status] {
     font-size: 0.8rem;
-    color: #ca0000;
+    color: #fff;
 }
 
 textarea[type=text] {
@@ -144,5 +144,5 @@ button {
 b[type=button],
 span[type=button] {
     font-size: 1.0rem;
-    color: #fff;
+    color: #7A7C80;
 }
